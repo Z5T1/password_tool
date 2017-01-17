@@ -1,0 +1,9 @@
+Password Generator
+
+Copyright Scott Court 2016
+
+This program can be used to generate cryptographically secure passwords. It
+works by getting random data from /dev/random and converting that to ascii
+characters.
+
+Usage: password_generator [length]
